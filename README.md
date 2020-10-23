@@ -1,0 +1,3 @@
+# Svelte-para-dummies
+Aplicacion web sencilla con el framework svelte
+proximamente instrucciones de instalacion...
